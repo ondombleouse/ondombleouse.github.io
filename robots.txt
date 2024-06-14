@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ondombleouse.github.io/sitemap
+Sitemap: https://ondombleouse.github.io/app/sitemap
+Sitemap: https://ondombleouse.github.io/assets/sitemap
+Sitemap: https://ondombleouse.github.io/css/sitemap
+Sitemap: https://ondombleouse.github.io/includes/sitemap
+Sitemap: https://ondombleouse.github.io/item/sitemap
+Sitemap: https://ondombleouse.github.io/src/sitemap
